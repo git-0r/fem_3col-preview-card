@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./3col-preview-card.png)
 
 
 ### Links
 
-[- Live Site URL: ](https://git-0r.github.io/fem_3col-preview-card/)
+[- Live Site URL](https://git-0r.github.io/fem_3col-preview-card/
